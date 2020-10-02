@@ -58,7 +58,7 @@ And, don't forget to give a :star:.
 - [S Sidharth](https://github.com/binarymatter)
 - [I-Johnson](https://github.com/I-Johnson)
 
-## Contributing
+## Contributing.
 
 To contribute or add yourself in the list. Follow the steps below:
 
