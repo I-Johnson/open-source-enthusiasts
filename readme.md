@@ -65,7 +65,7 @@ And, don't forget to give a :star:.
 - [Sushan Acharya](https://github.com/sushanacharya)
 - [I-Johnson](https://github.com/I-Johnson)
 
-## Contributing
+## Contributing.
 
 To contribute or add yourself in the list. Follow the steps below:
 
